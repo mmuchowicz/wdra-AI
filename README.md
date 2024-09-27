@@ -5,5 +5,5 @@ Chcemy zmienić sposób, w jaki generatywna sztuczna inteligencja jest wykorzyst
 *Chociaż staraliśmy się zaprojektować nasze propozycje z należytą starannością, użytkownicy powinni być świadomi potencjalnego ryzyka związanego z ich stosowaniem. Duże modele językowe (LLM) mogą interpretować prompty w sposób, który nie był pierwotnie zamierzony, prowadząc do nieoczekiwanych lub niewłaściwych odpowiedzi. Zachęcamy do dostosowywania promptów do swoich unikalnych kontekstów i potrzeb, a także do sprawdzania odpowiedzi pod kątem ich przydatności i dokładności. Zawsze zachowuj ostrożność i profesjonalny osąd podczas włączania tych promptów do swojego środowiska edukacyjnego.*
 
 ## Mapa Repozytorium
-(Prompty)[Prompty.md]: gotowe przykłady do wykorzystania bezpośrednio w interakcji z Modelem Językowym takim jak ChatGPT, Claude czy Gemini.
-(Narzędzia)[Narzedzia.md]: instrukcje opisujące sposoby wspomagania się gotowymi rozwiązaniami np. NotebookLM
+[Prompty](Prompty.md): gotowe przykłady do wykorzystania bezpośrednio w interakcji z Modelem Językowym takim jak ChatGPT, Claude czy Gemini.
+[Narzędzia](Narzedzia.md): instrukcje opisujące sposoby wspomagania się gotowymi rozwiązaniami np. NotebookLM
