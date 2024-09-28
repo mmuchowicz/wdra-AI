@@ -8,4 +8,4 @@ Chcemy zmienić sposób, w jaki generatywna sztuczna inteligencja jest wykorzyst
 
 [Prompty](Prompty/Prompty.md): gotowe przykłady do wykorzystania bezpośrednio w interakcji z Modelem Językowym takim jak ChatGPT, Claude czy Gemini.
 
-[Narzędzia](Narzedzia.md): instrukcje opisujące sposoby wspomagania się gotowymi rozwiązaniami np. NotebookLM
+[Narzędzia](Narzędzia/Narzędzia.md): instrukcje opisujące sposoby wspomagania się gotowymi rozwiązaniami np. NotebookLM
