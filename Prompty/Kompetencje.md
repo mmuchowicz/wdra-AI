@@ -39,11 +39,11 @@ Poproś AI o zaproponowanie możliwych stanowisk, związanych z danym tematem, a
 ```
 Zaproponuj trzy różne interpretacje motywu buntu w literaturze, do każdej z nich krótko opisz przykłady przedstawienia w 'Antygonie' Sofoklesa, 'Biesach' Dostojewskiego i '451 stopniach Fahrenheita' Raya Bradbury'ego.
 ```
-__7. Debata z historyczną postacią__
+__7. Debata z AI__
 
-Wybierz temat, a następnie określ swoją opinię w tej sprawie i przygotuj linię argumentacji. Zapromptuj postać, która miała przeciwne stanowisko i przeprowadź z nią debatę.
+Wybierz kontrowersyjny temat i poproś chatbota, aby zajął przeciwne stanowisko. Prowadź z nim debatę, starając się przekonać go do swojej racji. Możesz wybrać historyczną lub współczesną postać i polecić AI, by się w nią wcieliło.
 ```
-Jako zwolennik energii odnawialnej, który uważa, że są one kluczowe dla walki ze zmianami klimatycznymi, chcę przeprowadzić debatę z Margaret Thatcher, byłą premier Wielkiej Brytanii, która w latach 80. XX wieku była sceptyczna wobec zagrożeń związanych z globalnym ociepleniem i popierała rozwój energetyki jądrowej. Wciel się w jej postać.
+Jako zwolennik energii odnawialnej, który uważa, że jest ona kluczowa dla walki ze zmianami klimatycznymi, chcę przeprowadzić debatę z Margaret Thatcher, byłą premier Wielkiej Brytanii, która w latach 80. XX wieku była sceptyczna wobec zagrożeń związanych z globalnym ociepleniem i popierała rozwój energetyki jądrowej. Wciel się w jej postać i odnoś się do moich wypowiedzi zgodnie z poglądami Margaret Thatcher.
 ```
 
 ### Krytyczne myślenie
@@ -74,48 +74,50 @@ AI przedstawia przykład argumentacji, która opiera się na błędach poznawczy
 ```
 Stwórz artykuł, w którym argumentujesz przeciwko szczepieniom, opierając swoje wnioski na dostępnych anegdotycznych dowodach i popularnych mitach.
 ```
-## Myślenie
-__1. Rozkładanie złożonego problemu na części__
+## Logika
+__1. Tworzenie i testowanie hipotez__
 
-Poproś chatbota o przedstawienie złożonego problemu, który można podzielić na mniejsze części. Twoim zadaniem jest analiza każdego z elementów i opracowanie rozwiązania krok po kroku.
+Poproś chatbota o przedstawienie hipotetycznego problemu naukowego (np. „Jakie byłyby konsekwencje, gdyby Ziemia przestała się obracać?”). Twoim zadaniem jest sformułowanie hipotezy, a następnie poproszenie chatbota o pomoc w jej przetestowaniu poprzez przedstawienie logicznych konsekwencji.
 
 ```
-AI, describe a scenario where a team is trying to organize an international event, but they face multiple challenges including budget limitations, language barriers, and time zone differences. List all the sub-problems they need to solve in order to make the event successful.
+Przedstaw mi hipotetyczny problem naukowy. Poproś mnie o stworzenie hipotezy, a następnie odnieś się do niej i przeanalizuj logiczne konsekwencje tego scenariusza.
 ```
-__2. Deductive Reasoning Practice__
+__2. Rozwiązywanie problemów logicznych__
 
-Ask the chatbot to provide a set of premises. Your task is to deduce the logical conclusion.
+Poproś chatbota o przedstawienie ci klasycznego problemu logicznego lub paradoksu i spróbuj go rozwiązać, stosując odpowiednie kroki logicznego rozumowania. Jeśli napotkasz trudności, poproś chatbota o pomoc w przeanalizowaniu swoich kroków myślowych.
 ```
-AI, give me two or three premises. For example: 'All mammals are warm-blooded,' and 'Whales are mammals.' I'll deduce the logical conclusion from these premises.
+Podaj mi klasyczny problem logiczny, taki jak zagadka o wilku, owcy i kapuście. Pomóż mi przeanalizować kroki potrzebne do jego rozwiązania. Chcę skupić się na logicznej kolejności działań.
 ```
-__3. Inductive Reasoning Practice__
+```
+Przedstaw mi paradoks kłamcy, a następnie daj mi szansę się do niego odnieść. Naprowadzając mnie na alternatywne scenariusze, pomóż mi rozłożyć go na mniejsze części i zasugeruj, z jakiego powodu tworzy się pętla logiczna, prowadząca do sprzeczności.
+```
+__3. Tworzenie sylogizmów__
 
-Ask the chatbot for a set of observations from which you can generalize a rule.
+Poproś chatbota o stworzenie kilku sylogizmów (logicznych wnioskowań), a następnie wskaż, które z nich są poprawne, a które nie, wyjaśniając, dlaczego. Skup się na tym, jak przesłanki prowadzą do wniosku i sprawdź, czy rozumowanie jest poprawne.
 ```
-AI, provide me with three specific observations about how students perform in different subjects at school. I'll use inductive reasoning to come up with a general rule based on these observations.
+Stwórz kilka przykładów sylogizmów, zarówno poprawnych, jak i niepoprawnych. Pozwól mi wskazać te, które uważam za logicznie spójne, a które zawierają błędy. Po tym jak podam ci moje propozycje odnieś się do nich i pomóż mi w dokładnej analizie przesłanek i wniosków.
 ```
-__4. Create a Logical Sequence__
+__4. Analiza przyczynowo-skutkowa__
 
-Ask the chatbot to present a series of actions or steps out of order. Your task is to rearrange them into a logical sequence.
+Wybierz dowolne wydarzenie historyczne i poproś chatbota o przedstawienie ciągu przyczynowo-skutkowego, który doprowadził do tego wydarzenia. Twoim zadaniem jest zidentyfikowanie, czy ciąg zdarzeń jest logiczny oraz czy chatbot mógł coś pominąć lub uprościć.
 ```
-AI, list five steps for baking a cake, but present them in a random order. I will rearrange them into the correct, logical sequence.
+W formie listy następujących po sobie wydarzeń, przedstaw mi logiczny ciąg przyczynowo-skutkowy, który doprowadził do rewolucji przemysłowej.
 ```
-__5. Recognize Patterns__
+__5. Rozpoznaj wzory__
 
-Ask the chatbot to present a series of numbers or events. Identify the pattern and predict the next in the series.
+Poproś chatbota o przedstawienie serii liczb lub zdarzeń. Zidentyfikuj wzorzec i podaj kolejne w serii.
 ```
-AI, give me a sequence of numbers with a specific pattern, and I will identify the pattern and predict the next number.
+Na wzór podanych przeze mnie sekwencji, wymyśl kolejną i daj mi szansę, żebym wydedukował/a jaki powinien być jej następny element np. 3,5,7,9 lub 0,3,8,15
 ```
-__6. Distinguish Correlation from Causation__
+__6. Odróżnienie korelacji od związku przyczynowego__
 
-Ask the chatbot to present two correlated events. Your task is to determine whether one causes the other or if the correlation is coincidental.
+Poproś chatbota o przedstawienie dwóch skorelowanych zdarzeń. Twoim zadaniem jest ustalenie, czy jedno powoduje drugie, czy też korelacja jest przypadkowa.
 ```
-AI, give me an example of two events that are correlated, such as ice cream sales and temperature increases. I will evaluate whether one causes the other or if the correlation is just a coincidence.
+Podaj mi przykład dwóch skorelowanych zdarzeń. Postaraj się, żeby ich wynikanie nie było oczywiste, a moim zadaniem będzie stwierdzić czy jedno powoduje drugie, czy też korelacja jest tylko zbiegiem okoliczności.
 ```
-__7. Counterfactual Reasoning__
+__7. Rozumowanie alternatywne__
 
-Ask the chatbot to present a historical event. Your task is to use counterfactual reasoning to consider what might have happened if one key factor had been different.
+Poproś chatbota o przedstawienie wydarzenia historycznego. Twoim zadaniem jest użycie rozumowania kontrfaktycznego, aby rozważyć, co mogłoby się wydarzyć, gdyby jeden kluczowy czynnik był inny.
 ```
-AI, describe a historical event, such as the Apollo 11 moon landing. I will analyze how things might have been different if one key factor, such as a technical failure, had occurred.
+AI, opisz wydarzenie historyczne, takie jak lądowanie Apollo 11 na Księżycu. Przeanalizuję, jak sytuacja mogłaby wyglądać inaczej, gdyby wystąpił jeden kluczowy czynnik, taki jak awaria techniczna.
 ```
-__Sporządzenie łańcucha przyczynowo-skutkowego__
