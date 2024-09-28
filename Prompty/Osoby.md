@@ -1,6 +1,6 @@
 Dzięki tym szablonom, w jednym zdaniu możesz stworzyć postać, która będzie towarzyszyć Ci w przeprowadzeniu lekcji. Skopiuj najbardziej pasujący wariant i korzystaj:
 ```
-Uzupełnij ten prompt dla lekcji o Marii Skłodowskiej Curie o nierównościach płciowych w nauce "[PROMPT]
+Uzupełnij ten prompt dla lekcji o Marii Skłodowskiej Curie o nierównościach płciowych w nauce "[PROMPT]"
 ```
 
 ## Autor
